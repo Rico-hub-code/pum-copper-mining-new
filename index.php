@@ -103,36 +103,47 @@
     </p>
 
     <div class="grid">
-    <div class="card">
-      <h3>Mineral Exploration</h3>
-      <p>Geological surveys and mineral assessments.</p>
-    </div>
+      <div class="card">
+        <h3>Mineral Trading</h3>
+        <p>Reliable supply of minerals to local and international markets.</p>
+      </div>
 
-    <div class="card">
-      <h3>Copper Extraction</h3>
-      <p>Professional extraction and processing of copper minerals.</p>
+      <div class="card">
+        <h3>Mining Consultation</h3>
+        <p>Professional advisory services for mining investments and operations.</p>
+      </div>
     </div>
+      <div class="grid">
+        <div class="card">
+          <h3>Mineral Trading</h3>
+          <p>Reliable supply of minerals to local and international markets.</p>
+        </div>
 
-    <div class="card">
-      <h3>Mineral Trading</h3>
-      <p>Reliable supply of minerals to local and international markets.</p>
-    </div>
+        <div class="card">
+          <h3>Mineral Trading</h3>
+          <p>Reliable supply of minerals to local and international markets.</p>
+        </div>
+        
+        <div class="card">
+          <h3>Mineral Trading</h3>
+          <p>Reliable supply of minerals to local and international markets.</p>
+        </div>
 
-    <div class="card">
-      <h3>Mining Consultation</h3>
-      <p>Professional advisory services for mining investments and operations.</p>
-    </div>
+        <div class="card">
+          <h3>Mining Consultation</h3>
+          <p>Professional advisory services for mining investments and operations.</p>
+        </div>
 
-    <div class="card">
-      <h3>Mining Consultation</h3>
-      <p>Professional advisory services for mining investments and operations.</p>
+        <div class="card">
+          <h3>Mining Consultation</h3>
+          <p>Professional advisory services for mining investments and operations.</p>
+        </div>
+        
+        <div class="card">
+          <h3>Mining Consultation</h3>
+          <p>Professional advisory services for mining investments and operations.</p>
+        </div>
     </div>
-    
-    <div class="card">
-      <h3>Mining Consultation</h3>
-      <p>Professional advisory services for mining investments and operations.</p>
-    </div>
-  </div>
 
   </div>
 </section>
@@ -141,6 +152,29 @@
 <section class="parallax">
   <div class="parallax-content">
     <h2>Driving Zambia’s Mining Excellence</h2>
+  </div>
+</section>
+
+<!-- MINERALS -->
+<section id="minerals" class="section dark-section">
+  <h2>Our Minerals</h2>
+  <div class="slider">
+    <div class="slides">
+      <div class="slide">
+        <img src="public/minerals/copper.jpg">
+        <h3>Copper</h3>
+      </div>
+
+      <div class="slide">
+        <img src="public/minerals/malachite.jpg">
+        <h3>Malachite</h3>
+      </div>
+
+      <div class="slide">
+        <img src="public/minerals/cobalt.jpg">
+        <h3>Cobalt</h3>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -182,34 +216,21 @@
       <h3>Mining Consultation</h3>
       <p>Professional advisory services for mining investments and operations.</p>
     </div>
-  </div>
-</section>
 
-<!-- MINERALS -->
-<section id="minerals" class="section dark-section">
-  <h2>Our Minerals</h2>
-  <div class="slider">
-    <div class="slides">
-      <div class="slide">
-        <img src="public/minerals/copper.jpg">
-        <h3>Copper</h3>
-      </div>
+    <div class="card">
+      <h3>Mining Consultation</h3>
+      <p>Professional advisory services for mining investments and operations.</p>
+    </div>
 
-      <div class="slide">
-        <img src="public/minerals/malachite.jpg">
-        <h3>Malachite</h3>
-      </div>
-
-      <div class="slide">
-        <img src="public/minerals/cobalt.jpg">
-        <h3>Cobalt</h3>
-      </div>
+    <div class="card">
+      <h3>Mining Consultation</h3>
+      <p>Professional advisory services for mining investments and operations.</p>
     </div>
   </div>
 </section>
 
 <!-- STATS -->
-<section id="stats" class="section">
+<!-- <section id="stats" class="section">
   <h2>Company Impact</h2>
   <div class="stats-grid">
     <div>
@@ -232,10 +253,11 @@
       <p>% Regulatory Compliance</p>
     </div>
   </div>
-</section>
+</section> -->
 
 <footer>
   <p>© <?php echo date("Y"); ?> PUM Copper Mining Limited | Zambia</p>
+  <P></P>
 </footer>
 
 <a href="https://wa.me/260772786809" class="whatsapp-float" target="_blank">
